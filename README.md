@@ -1,4 +1,4 @@
-This folder contains sample code for how to implement CatBoost Regression using python in simple steps.
+This folder contains sample code for how to handle Imbalanced Datasets using python in simple steps.
 
 Content:
 
